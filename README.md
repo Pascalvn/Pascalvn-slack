@@ -18,7 +18,7 @@ Thành viên vi phạm sẽ được cảnh cáo lần đầu và sẽ bị đá
 Để đảm bảo chất lượng room và cũng giúp người giúp bạn, BĐH yêu cầu các thành viên tham gia chat room
 khi đặt câu hỏi tuân theo các điều sau:
 * Câu hỏi phải súc tích, không lan man
-* Code phải gói vào và đừng hiển thị dưới dạng tin nhắn, code nào quá dài thì phải cho vào gist.github.com 
+* Code phải gói vào và đừng hiển thị dưới dạng tin nhắn, code nào quá dài thì phải cho vào gist.github.com. Xem thêm về cách định dạng tin nhắn tại https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages
 * Đọc kĩ hướng dẫn của người trả lời trước khi hỏi lại 
 * Làm bài tập và google trước khi hỏi, tránh hỏi ngu vì ...lười
 
