@@ -1,5 +1,5 @@
 # Nội quy :book:
-Luật chat trong Slack của Pascalvn - Học nhóm Pascal
+Luật chat trong Slack của Pascalvn - Học nhóm Pascal.
 Về hành vi ứng xử, chỉ có một yêu cầu duy nhất là "hãy là một người văn minh và tử tế". Điều này có nghĩa là gì:
 
 * Xin hãy đừng quên cảm ơn ai đã dành thời gian giúp bạn
